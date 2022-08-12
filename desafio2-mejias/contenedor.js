@@ -104,12 +104,10 @@ class Contenedor {
 
 const listaProductos = new Contenedor('./productos.txt')
 
-//listaProductos.save({title: 'Leche', price: 180, thumbnail: 'https://www.casa-segal.com/producto/azucar-ledesma-1-kilo/'});
+listaProductos.save({title: 'Harina', price: 150, thumbnail: 'https://www.casa-segal.com/producto/azucar-ledesma-1-kilo/'});
 
 //listaProductos.deleteById(1);
 
 //listaProductos.getById(3);
 
-
-
-listaProductos.deleteAll();
+//listaProductos.deleteAll();

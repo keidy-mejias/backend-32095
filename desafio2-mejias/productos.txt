@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "title": "Leche",
+    "price": 180,
+    "thumbnail": "https://www.casa-segal.com/producto/azucar-ledesma-1-kilo/",
+    "id": 1
+  },
+  {
+    "title": "Azucar",
+    "price": 120,
+    "thumbnail": "https://www.casa-segal.com/producto/azucar-ledesma-1-kilo/",
+    "id": 2
+  },
+  {
+    "title": "Harina",
+    "price": 150,
+    "thumbnail": "https://www.casa-segal.com/producto/azucar-ledesma-1-kilo/",
+    "id": 3
+  }
+]
